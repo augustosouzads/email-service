@@ -1,6 +1,7 @@
 package com.augusto.challenger.emailservice.controllers;
 
 import com.augusto.challenger.emailservice.application.EmailSenderService;
+import com.augusto.challenger.emailservice.core.EmailRequest;
 import com.augusto.challenger.emailservice.core.exceptions.EmailServiceException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
