@@ -1,3 +1,3 @@
-# 🎉 email-service 📜
+# 🎉 email-service. 📜
 
 
