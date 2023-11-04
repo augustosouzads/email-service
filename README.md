@@ -36,14 +36,14 @@ https://github.com/augustosouzads/email-service.git
 # Core Functionality
 🚧 This service accepts the necessary information and sends emails. It will provide an abstraction between two different email service providers. If one of the services goes down, the service can quickly fail over to a different provider without affecting the customers.🚧
 ##  Emails Shooting Service.
-### Tecnologias Utilizadas
+### Technologies Used
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-- [Java](https://www.oracle.com/br/java/technologies/downloads/) - Ambiente de execução Java do lado do servidor
-- [AWS SDK](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SES.html#constructor-property) - SDK da AWS para envio de e-mails utilizando o serviço Simple Email Service (SES)
-- [Spring](https://start.spring.io/) - SDK da AWS para envio de e-mails utilizando o serviço Simple Email Service (SES)
+- [Java](https://www.oracle.com/br/java/technologies/downloads/) - Server-Side Java Execution Environment
+- [AWS SDK](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SES.html#constructor-property) - AWS SDK for sending emails using Simple Email Service (SES)
+- [Spring](https://start.spring.io/) - Spring framework to increase productivity in the development of java web applications.
 
 
 ## API Endpoints
